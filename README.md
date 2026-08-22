@@ -1,2 +1,11 @@
-# data-analytics-projects
-Excel and SQL projects for my Data Analyst learning journey
+# Data Analytics Projects
+
+This repository contains my Data Analytics learning projects.
+
+## Skills
+- Excel
+- SQL
+
+## Projects
+- Excel Projects
+- SQL Projects
