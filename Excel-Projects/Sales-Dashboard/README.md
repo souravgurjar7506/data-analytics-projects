@@ -33,10 +33,10 @@ The dashboard includes interactive slicers that allow users to filter the data a
 
 Key KPI metrics include:
 
-* **Total Sales:** $1,910,000
-* **Average Sales:** $95,500
+* **Total Sales:** $2,006,000
+* **Average Sales:** $100,300
 * **Total Orders:** 20
-* **Maximum Sale:** $180,000
+* **Maximum Sale:** $200,000
 
 ## Analysis
 
