@@ -49,6 +49,5 @@ UPDATE employee
  WHERE ID = 106;
 
 SELECT * FROM employee;
-## SQL Query Execution & Output
 
-![SQL Table Output](image_query1st.PNG)
+
