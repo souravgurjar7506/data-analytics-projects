@@ -43,12 +43,12 @@ SELECT * FROM employee;
 UPDATE employee
  SET DEPARTMENT = 'Data Analytics'
  WHERE ID IN (102, 110);
- ## SQL Query Execution & Output
-
-![SQL Table Output](image_query1st.PNG)
 
 UPDATE employee
  SET DEPARTMENT = 'E.com'
  WHERE ID = 106;
 
 SELECT * FROM employee;
+
+ ## SQL Query Execution & Output
+ ![SQL Table Output](image_query1st.PNG)
